@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fangshen_194">
+    <serverData>
+      <paths name="fangshen_194">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fangshen/metaLR_predict" local="$PROJECT_DIR$" web="/home/fangshen/metaLR_predict" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
